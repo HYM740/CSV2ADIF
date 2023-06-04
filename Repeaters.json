@@ -5,42 +5,42 @@
         "UPLINK":"145.99",
         "DOWNLINK":"437.8"
     },{
-        "SAT":"TEVEL-1",
+        "SAT":"TEVEL1",
         "MODE":"FM",
         "UPLINK":"145.97",
         "DOWNLINK":"436.4"
     },{
-        "SAT":"TEVEL-2",
+        "SAT":"TEVEL2",
         "MODE":"FM",
         "UPLINK":"145.97",
         "DOWNLINK":"436.4"
     },{
-        "SAT":"TEVEL-3",
+        "SAT":"TEVEL3",
         "MODE":"FM",
         "UPLINK":"145.97",
         "DOWNLINK":"436.4"
     },{
-        "SAT":"TEVEL-4",
+        "SAT":"TEVEL4",
         "MODE":"FM",
         "UPLINK":"145.97",
         "DOWNLINK":"436.4"
     },{
-        "SAT":"TEVEL-5",
+        "SAT":"TEVEL5",
         "MODE":"FM",
         "UPLINK":"145.97",
         "DOWNLINK":"436.4"
     },{
-        "SAT":"TEVEL-6",
+        "SAT":"TEVEL6",
         "MODE":"FM",
         "UPLINK":"145.97",
         "DOWNLINK":"436.4"
     },{
-        "SAT":"TEVEL-7",
+        "SAT":"TEVEL7",
         "MODE":"FM",
         "UPLINK":"145.97",
         "DOWNLINK":"436.4"
     },{
-        "SAT":"TEVEL-8",
+        "SAT":"TEVEL8",
         "MODE":"FM",
         "UPLINK":"145.97",
         "DOWNLINK":"436.4"
