@@ -97,7 +97,7 @@ func (r *ADIFRecord) CompleteBandInfo() {
 	if freq2band(freq) != "" {
 		r.Band = freq2band(freq)
 	}
-	freqrx, err := strconv.ParseFloat(r.Freq, 64)
+	freqrx, err := strconv.ParseFloat(r.FreqRx, 64)
 	if err != nil {
 
 	}
